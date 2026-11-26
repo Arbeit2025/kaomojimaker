@@ -2,8 +2,6 @@
 # パーツ（輪郭・目・口・頬・腕・装飾）を選んで顔文字を組み立てる単一ファイルアプリ。
 # 組み立て・ランダム・コピー・お気に入り保存はすべてブラウザ側（JavaScript）で行い、
 # サーバー側に状態は持たない。お気に入りは localStorage にのみ保存される。
-#
-# 参考: mofu-mitsu さんの kaomoji-maker（発想の参考。パーツ・文章は自作）
 
 from flask import Flask, render_template_string
 

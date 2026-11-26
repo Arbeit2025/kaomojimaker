@@ -29,8 +29,3 @@
 python -m pytest tests/ -q
 ```
 
-## 参考にした作品
-
-- mofu-mitsu さんの [kaomoji-maker](https://github.com/mofu-mitsu/kaomoji-maker)（「パーツを選んで顔文字を組み立てる」という発想の参考にさせていただきました）
-
-なお、本ツールのパーツ・文章・コードはすべて自作であり、上記作品の素材は使用していません。
